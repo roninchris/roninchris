@@ -2,7 +2,7 @@
 <div align="center">
 👨‍💻 I'm a software engineering student in love with technology, fascinated with learning how things work!
 
-## Sobre Mim
+### Sobre Mim
 - Age: 20
 - MBTI: ISTP
 - Swordsman in spare time
