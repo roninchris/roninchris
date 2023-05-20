@@ -12,23 +12,21 @@
 </div>
 <h3 align="center">Languages and Tools</h3>
 <div align="center" valign="top"><br>
-  <img align="center" alt="Angular" height="30" width="40" 
-src="https://angular.io/assets/images/logos/angular/angular.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" 
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="git" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Sql" height="30" width="40" 
+  <img align="center" alt="Node" height="30" width="40" 
+src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
+  <img align="center" alt="Java" height="30" width="40" 
+src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  <img align="center" alt="SpringBoot" height="30" width="40" 
+src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png">
+  <img align="center" alt="SQL" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="php" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-   <img align="center" alt="" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+   <img align="center" alt="OpenLiberty" height="30" width="40" 
+src="https://plugins.jetbrains.com/files/14856/268323/icon/pluginIcon.png">
 
 </div><br>
 
