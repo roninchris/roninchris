@@ -16,7 +16,7 @@
   <img align="center" alt="Python" height="30" width="40" 
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Node" height="30" width="40" 
-src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
+src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
   <img align="center" alt="Java" height="30" width="40" 
 src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="SpringBoot" height="30" width="40" 
@@ -25,8 +25,6 @@ src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-projec
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="php" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-   <img align="center" alt="OpenLiberty" height="30" width="40" 
-src="https://plugins.jetbrains.com/files/14856/268323/icon/pluginIcon.png">
 
 </div><br>
 
