@@ -1,8 +1,11 @@
 ## Hi!! I'm Chris
 <div align="center">
 👨‍💻 I'm a software engineering student in love with technology, fascinated with learning how things work!
+
+## Sobre Mim
 - Age: 20
 - MBTI: ISTP
+- Swordsman in spare time
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <a href="https://github.com/roninchris">
