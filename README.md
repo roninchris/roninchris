@@ -1,6 +1,7 @@
 ## Hey there, i'm Chris.
 <div align="center">
 👨‍💻 I'm a software engineering student in love with technology, fascinated with learning how things work!
+</div>
 
 ### Sobre Mim
 - Age: 20
