@@ -42,9 +42,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-ori
   
 
 
- <div align="center">
-  <a href="[https://www.linkedin.com/in/christiansen-taques-594615235/)" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/christiansen-taques-594615235/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+</div>
 
 </div>
