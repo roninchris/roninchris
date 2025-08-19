@@ -9,6 +9,9 @@
 </p>
 
 ---
+<div align="center">
+<img width="848" height="192" alt="image" src="https://github.com/user-attachments/assets/ce868a31-0a8a-4b85-8e28-2f0d0d22f258" />
+</div>
 
 ## <img width="60" height="60" alt="Snikt" src="https://github.com/user-attachments/assets/e13459a2-27ff-4544-b80c-7a430f604a1d" /> Adamantium Arsenal
   
@@ -25,7 +28,10 @@
 
 <!--##  Snikt! -->
 
+
 ---
+
+
 
 ## <img width="60" height="60" alt="What, bub?" src="https://github.com/user-attachments/assets/5a344c50-108e-4ba1-801f-bd1fddbb039d" /> Weapon X 
 
@@ -35,6 +41,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=roninchris&count_private=true&include_all_commits=true&show_icons=true&theme=one_dark_pro&hide_border=false"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roninchris&theme=one_dark_pro&hide_border=false&layout=compact"/>
   </a>
+</div>
+
+<div align="center">
+<img width="848" height="192" alt="image" src="https://github.com/user-attachments/assets/3b486e53-ef6b-4943-a281-7371ada3d07e" />
 </div>
 
 ---
