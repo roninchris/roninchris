@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>"I'm The Best There Is At What I Do, But What I Do Best Isn't Very Nice.."</em>
+  <em>"Ain't the size of the Mutant that matters. It's how sharp his claws are…"</em>
 </p>
 
 ---
@@ -78,5 +78,5 @@
 
 
 <p align="center">
-  <em>"Ain't the size of the Mutant that matters. It's how sharp his claws are…"</em>
+  <em>"Past, present, future. Don't matter. We gotta save 'em all."</em>
 </p>
