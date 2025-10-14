@@ -38,7 +38,6 @@
 
 <div align="center">
   <a href="https://github.com/roninchris">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=roninchris&count_private=true&include_all_commits=true&show_icons=true&theme=one_dark_pro&hide_border=false"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roninchris&theme=one_dark_pro&hide_border=false&layout=compact"/>
   </a>
 </div>
