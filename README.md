@@ -1,8 +1,4 @@
-Software developer building full-stack web apps — currently focused on React/TypeScript frontends, Supabase/Postgres backends, and real-time collaborative features.
-
-- 🔭 Currently building **The Belfry** — a real-time multiplayer detective board app (Vite, React, TypeScript, Supabase)
-- 🌱 Learning: real-time sync patterns, Row Level Security, and steganography/image-forensics tooling
-- 💬 Open to internship/junior software engineer opportunities
+Software developer building full-stack web apps — currently focused on React/TypeScript frontends, Supabase/Postgres backends, and real-time collaborative features. 
 
 ---
 
@@ -28,11 +24,7 @@ Software developer building full-stack web apps — currently focused on React/T
 
 ## 📊 GitHub Stats
 
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=roninchris&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roninchris&layout=compact)
+![Chris's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=roninchris&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=roninchris&layout=compact&theme=tokyonight)
 
 ---
-
-## 🤝 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-taques-594615235/)
