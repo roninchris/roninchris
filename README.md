@@ -1,4 +1,4 @@
-Software developer building full-stack web apps — currently focused on React/TypeScript frontends, Supabase/Postgres backends, and real-time collaborative features. 
+Software Engineer building full-stack web apps — currently focused on React/TypeScript frontends, Supabase/Postgres backends, and real-time collaborative features. 
 
 ---
 
